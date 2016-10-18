@@ -1,8 +1,8 @@
 #include<stdio.h>
-
+//please Comment everything
 int main(){
   int a = 3, b = 4;
-  int c = a + b;
-  printf("%d",c);
+  int c = a + b;// The Sum is inserted into c
+  printf("%d",c); // Display the value
   return 0;
 }
